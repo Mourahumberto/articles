@@ -10,3 +10,4 @@
 - essas imagens minimalistas só irão rodar a aplicação, você precisará fazer multi staging build e ter uma imagem que build o projeto.
 - usar usuário na imagem sem muitos privilégios.
 - usar o .dockerignore para ignorar arquivos sensíveis ou algo do tipo.
+- um teste do git
